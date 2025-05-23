@@ -1,0 +1,28 @@
+{
+    "name": "Acme Renewable Solutions, Inc.",
+    "industry": "Renewable Energy",
+    "location": "Springfield, USA",
+    "website": "https://www.acmerenewables.com",
+    "contact_email": "info@acmerenewables.com",
+    "expertise": [
+      "solar photovoltaic system design",
+      "commercial & utility‐scale installations",
+      "wind farm feasibility studies",
+      "public grants management",
+      "environmental impact assessment"
+    ],
+    "past_projects": [
+      {
+        "title": "Springfield Solar Community Pilot",
+        "year": 2023,
+        "description": "Installed 100 kW of rooftop solar on 10 municipal buildings, reducing annual energy spend by 30%."
+      },
+      {
+        "title": "Green City Wind Initiative",
+        "year": 2022,
+        "description": "Conducted feasibility and preliminary design for a 20 MW wind farm outside Springfield."
+      }
+    ],
+    "description": "Acme Renewable Solutions, Inc. is a mid‐sized engineering firm specializing in the design, procurement, and management of renewable energy projects. With deep expertise in solar PV and wind energy, we have successfully led multiple public‐sector pilots funded by municipal grants. Our multidisciplinary team covers environmental engineering, grant writing, and full‐stack project delivery from feasibility through operations."
+  }
+  
