@@ -6,7 +6,7 @@
 .
 ├── chroma_db/           # Persisted Chroma vector store
 ├── grant_docs/          # Place grant proposal PDFs here
-├── company_info.json    # JSON file containing your company profile
+├── company_info.json    # JSON file containing company profile
 ├── embed.py             # Script to ingest and embed data into Chroma
 ├── qualifier.py         # Script to evaluate proposals against the profile
 ├── requirements.txt     # Python dependencies
