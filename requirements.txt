@@ -1,6 +1,9 @@
 python-dotenv
+langchain
 langchain_ollama
 langchain_text_splitters
 langchain_chroma
+langchain-community
 pypdf
+reportlab
 tqdm

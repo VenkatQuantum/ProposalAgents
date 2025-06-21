@@ -1,0 +1,93 @@
+{
+  "proposal1.pdf": [
+    {
+      "section": "Company Profile",
+      "score": 8,
+      "reason": "The company has experience in solar farm design and renewable energy, which is relevant to the project's objective"
+    },
+    {
+      "section": "Project Objectives",
+      "score": 9,
+      "reason": "The company's expertise in solar installation and maintenance aligns well with the project's goal of training local participants and installing rooftop solar capacity"
+    },
+    {
+      "section": "Methodology",
+      "score": 7,
+      "reason": "While the company's experience is relevant, the specific timeframe for each task may require some adjustments to fit the project timeline"
+    },
+    {
+      "section": "Budget Overview",
+      "score": 6,
+      "reason": "The company's budget seems reasonable, but a more detailed breakdown of costs and potential savings would strengthen the proposal"
+    },
+    {
+      "section": "Expected Outcomes",
+      "score": 9,
+      "reason": "The expected outcomes align well with the company's strengths in solar installation and maintenance, making it a strong candidate to execute this project"
+    }
+  ],
+  "proposal2.pdf": [
+    {
+      "section": "Executive Summary",
+      "score": 9,
+      "reason": "Company has experience in renewable energy and solar farm design, which can be applied to developing a water purification unit."
+    },
+    {
+      "section": "Problem Statement",
+      "score": 8,
+      "reason": "Company's focus on renewable energy suggests they have knowledge of sustainable solutions, but the specific context of water purification is new"
+    },
+    {
+      "section": "Goals & Objectives",
+      "score": 7,
+      "reason": "Designing and deploying mobile purification units requires specialized expertise that company may not possess."
+    },
+    {
+      "section": "Approach",
+      "score": 6,
+      "reason": "Company lacks specific experience in designing and implementing water purification systems, particularly for rural settings."
+    },
+    {
+      "section": "Budget Breakdown",
+      "score": 9,
+      "reason": "Company has a clear understanding of the costs involved in developing and deploying the units, indicating financial management capabilities."
+    },
+    {
+      "section": "Impact & Sustainability",
+      "score": 8,
+      "reason": "Company's experience with renewable energy suggests they can contribute to sustainable solutions for underserved communities."
+    }
+  ],
+  "topic_AF254-0801_AI_ML-Generated Decoy Networks.PDF": [
+    {
+      "section": "Company Profile",
+      "score": 8,
+      "reason": "The company has experience in renewable energy, but there is no direct connection to the proposed technology. However, the expertise in design and implementation of complex systems could be beneficial for developing decoy networks."
+    },
+    {
+      "section": "Technology Areas",
+      "score": 6,
+      "reason": "The company's focus on integrated sensing and cyber could provide a foundation for understanding the importance of decoy networks. However, there is limited information on how this expertise would be applied to the specific technology area."
+    },
+    {
+      "section": "Modernization Priorities",
+      "score": 7,
+      "reason": "The company's emphasis on integrated sensing and cyber aligns with the proposed modernization priorities of Air Force CyberWorx. This suggests that the company has a basic understanding of the need for decoy networks in cybersecurity."
+    },
+    {
+      "section": "Keywords",
+      "score": 5,
+      "reason": "The company's profile does not explicitly mention AI/ML or decoy networks, which are crucial keywords for this proposal. However, it is possible that the company could leverage its existing expertise to develop a solution."
+    },
+    {
+      "section": "Objective",
+      "score": 4,
+      "reason": "The company's profile does not clearly state how it would address the specific objectives of generating decoy networks and tracking hacker activity. This section requires more information on the company's approach to the proposal."
+    },
+    {
+      "section": "ITAR and Export Control Laws",
+      "score": 0,
+      "reason": "This section is unrelated to the company's profile, as it pertains to export control laws and technical data classification. The company does not need to disclose this information for a basic assessment of its capabilities."
+    }
+  ]
+}

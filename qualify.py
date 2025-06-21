@@ -11,7 +11,6 @@ from reportlab.lib.styles import getSampleStyleSheet
 from langchain.document_loaders import PyPDFLoader
 from langchain.text_splitter import CharacterTextSplitter
 
-# Load environment variables
 load_dotenv()
 OLLAMA_URL     = os.getenv("OLLAMA_URL", "http://localhost:11434")
 EMBED_MODEL    = os.getenv("OLLAMA_EMBED_MODEL", "mxbai-embed-large")
