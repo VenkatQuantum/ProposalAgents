@@ -1,93 +1,74 @@
 {
-  "proposal1.pdf": [
-    {
-      "section": "Company Profile",
-      "score": 8,
-      "reason": "The company has experience in solar farm design and renewable energy, which is relevant to the project's objective"
-    },
-    {
-      "section": "Project Objectives",
-      "score": 9,
-      "reason": "The company's expertise in solar installation and maintenance aligns well with the project's goal of training local participants and installing rooftop solar capacity"
-    },
-    {
-      "section": "Methodology",
-      "score": 7,
-      "reason": "While the company's experience is relevant, the specific timeframe for each task may require some adjustments to fit the project timeline"
-    },
-    {
-      "section": "Budget Overview",
-      "score": 6,
-      "reason": "The company's budget seems reasonable, but a more detailed breakdown of costs and potential savings would strengthen the proposal"
-    },
-    {
-      "section": "Expected Outcomes",
-      "score": 9,
-      "reason": "The expected outcomes align well with the company's strengths in solar installation and maintenance, making it a strong candidate to execute this project"
-    }
-  ],
-  "proposal2.pdf": [
-    {
-      "section": "Executive Summary",
-      "score": 9,
-      "reason": "Company has experience in renewable energy and solar farm design, which can be applied to developing a water purification unit."
-    },
-    {
-      "section": "Problem Statement",
-      "score": 8,
-      "reason": "Company's focus on renewable energy suggests they have knowledge of sustainable solutions, but the specific context of water purification is new"
-    },
-    {
-      "section": "Goals & Objectives",
-      "score": 7,
-      "reason": "Designing and deploying mobile purification units requires specialized expertise that company may not possess."
-    },
-    {
-      "section": "Approach",
-      "score": 6,
-      "reason": "Company lacks specific experience in designing and implementing water purification systems, particularly for rural settings."
-    },
-    {
-      "section": "Budget Breakdown",
-      "score": 9,
-      "reason": "Company has a clear understanding of the costs involved in developing and deploying the units, indicating financial management capabilities."
-    },
-    {
-      "section": "Impact & Sustainability",
-      "score": 8,
-      "reason": "Company's experience with renewable energy suggests they can contribute to sustainable solutions for underserved communities."
-    }
-  ],
-  "topic_AF254-0801_AI_ML-Generated Decoy Networks.PDF": [
-    {
-      "section": "Company Profile",
-      "score": 8,
-      "reason": "The company has experience in renewable energy, but there is no direct connection to the proposed technology. However, the expertise in design and implementation of complex systems could be beneficial for developing decoy networks."
-    },
-    {
-      "section": "Technology Areas",
-      "score": 6,
-      "reason": "The company's focus on integrated sensing and cyber could provide a foundation for understanding the importance of decoy networks. However, there is limited information on how this expertise would be applied to the specific technology area."
-    },
-    {
-      "section": "Modernization Priorities",
-      "score": 7,
-      "reason": "The company's emphasis on integrated sensing and cyber aligns with the proposed modernization priorities of Air Force CyberWorx. This suggests that the company has a basic understanding of the need for decoy networks in cybersecurity."
-    },
-    {
-      "section": "Keywords",
-      "score": 5,
-      "reason": "The company's profile does not explicitly mention AI/ML or decoy networks, which are crucial keywords for this proposal. However, it is possible that the company could leverage its existing expertise to develop a solution."
-    },
-    {
-      "section": "Objective",
-      "score": 4,
-      "reason": "The company's profile does not clearly state how it would address the specific objectives of generating decoy networks and tracking hacker activity. This section requires more information on the company's approach to the proposal."
-    },
-    {
-      "section": "ITAR and Export Control Laws",
-      "score": 0,
-      "reason": "This section is unrelated to the company's profile, as it pertains to export control laws and technical data classification. The company does not need to disclose this information for a basic assessment of its capabilities."
-    }
-  ]
+  "AI Enabled Portfolio Management.pdf": {
+    "overall_score": 8.5,
+    "overall_rank": "Excellent",
+    "sections": [
+      {
+        "section": "Section 1",
+        "score": 8.5,
+        "reason": "The proposal addresses most of the key challenges in Acquisition requirements intake and portfolio management, including lack of consistent processes and templates for intake, review, analysis, and acceptance of new IT Acquisition requirements; limited visibility into the status of approved requirements during the acquisition process; insufficient visibility into the Army's portfolio of services, contracts, and hardware/software assets; and inadequate scanning of available contracts and hardware/software during portfolio review and requirements approval. The proposal also highlights a prize competition for small business concerns that meet the criteria for award under this topic.",
+        "suggestions": "The proposal could benefit from more detailed information on how AcquiSense-AI will handle sensitive or classified information, especially considering the DoD's unique budget, appropriations, and regulatory environment. Additionally, the proposal should provide more specific details on how the proposed platform will be integrated with existing Army systems, such as CMP and procurement DB."
+      },
+      {
+        "section": "Section 2",
+        "score": 8.5,
+        "reason": "The proposal provides a clear and detailed plan for delivering the initial Minimum Viable Product (MVP) within the required timeframe. However, the scope of work seems slightly ambitious given the 120-day deadline, and some deliverables overlap in time. Improvements are needed to better align milestones and timelines.",
+        "suggestions": "Re-evaluate and refine the timeline and task sequence for Phase II to ensure realistic delivery dates and avoid overlapping milestones."
+      }
+    ]
+  },
+  "AI Enabled Source Selection for Contract Proposal Evaluation.pdf": {
+    "overall_score": 7.75,
+    "overall_rank": "Excellent",
+    "sections": [
+      {
+        "section": "Section 1",
+        "score": 7.5,
+        "reason": "The proposal effectively addresses the key objectives of automating and standardizing source selection processes using AI and blockchain technologies. However, some aspects of the proposal could be improved upon to better meet the evaluation criteria.",
+        "suggestions": "Consider providing more detailed information on how SelectAI-SS will handle sensitive or confidential information, such as evaluation reports with OCI constraints. Additionally, provide more specific metrics on the expected reduction in evaluation time and protest risk, which is crucial for assessing the proposal's impact on the acquisition process."
+      },
+      {
+        "section": "Section 2",
+        "score": 8.0,
+        "reason": "The proposal demonstrates a clear understanding of the project objectives and outlines a comprehensive plan for delivering an AI-enabled source selection software solution. However, the scope of the Phase II effort is not entirely clear, and some technical objectives could be further elaborated upon.",
+        "suggestions": "Consider providing more detail on how each technical objective will be met and what specific milestones will be achieved during Phase II."
+      }
+    ]
+  },
+  "AI_ML-Generated Decoy Networks.pdf": {
+    "overall_score": 7.65,
+    "overall_rank": "Excellent",
+    "sections": [
+      {
+        "section": "Section 1",
+        "score": 7.8,
+        "reason": "The proposal provides a clear and feasible approach to addressing the objectives of creating realistic and dynamic decoy networks that can deceive sophisticated state-sponsored hackers. The company has a strong background in delivering ML-driven defense solutions, and the proposed technology areas (e.g., generative adversarial networks, reinforcement learning) are well-suited for this challenge. However, some minor concerns were identified regarding the scope of work and the level of detail provided.",
+        "suggestions": "To improve the proposal, consider expanding the scope of Phase I to include more detailed requirements and timelines, as well as providing a clearer plan for addressing potential risks and challenges. Additionally, consider including more information on how DecoyGen-AI will be integrated with existing Air Force CyberWorx systems and infrastructure."
+      },
+      {
+        "section": "Section 2",
+        "score": 7.5,
+        "reason": "The proposal addresses the Phase II objectives by providing a clear plan for advancing from a TRL 6 lab-tested prototype to a TRL 9 product in an operational environment. However, it lacks specific details on how DecoyGen-AI will integrate with Air Force CyberWorx and the 67th Cyberspace Wing's Risk Management Framework.",
+        "suggestions": "Provide more information on the integration process with Air Force CyberWorx and the 67th Cyberspace Wing. Ensure that the proposed solution aligns with their requirements and standards."
+      }
+    ]
+  },
+  "Novel AI Techniques for Insights in Various Environments.pdf": {
+    "overall_score": 8.0,
+    "overall_rank": "Excellent",
+    "sections": [
+      {
+        "section": "Section 1",
+        "score": 8.0,
+        "reason": "The proposal addresses key objectives and provides a clear technical approach for developing AI models that can efficiently process and analyze terabytes of data. However, the section could benefit from more explicit details on how the proposed methods will be validated against traditional methods and the specific challenges that NATIVE-Insight aims to overcome.",
+        "suggestions": "Provide more detailed information on validation strategies, such as benchmarking and comparative studies with existing anomaly detection systems, to demonstrate the superiority of NATIVE-Insight's approach. Additionally, clarify how the proposed methods will address specific pain points in traditional anomaly detection, such as scalability and interpretability."
+      },
+      {
+        "section": "Section 2",
+        "score": 8.0,
+        "reason": "The proposal addresses the objectives of Section 2 by detailing a well-defined AI platform for anomaly detection and pattern recognition. However, it lacks specific examples or case studies demonstrating the effectiveness of the proposed technology in various environments.",
+        "suggestions": "Provide more concrete examples or case studies that illustrate the benefits and results of using NATIVE-Insight in different domains."
+      }
+    ]
+  }
 }
